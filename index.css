@@ -1,0 +1,22 @@
+.container {
+  width: 50vw;
+
+  color: #fff;
+}
+.thumbnailParent {
+  background-color: #0f0f0f;
+
+  display: flex;
+}
+.cardImg img {
+  width: 200px;
+  padding-top: 3px;
+  padding-left: 3px;
+}
+.secondChild {
+  margin-left: 10px;
+}
+.title1,
+.title2 {
+  margin-top: 6px;
+}
